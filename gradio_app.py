@@ -24,6 +24,7 @@ CKPT_SIZE = {
     'stylegan2/stylegan2-cat-config-f.pkl': 256,
     'stylegan2/stylegan2-church-config-f.pkl': 256,
     'stylegan2/stylegan2-horse-config-f.pkl': 256,
+    'stylegan2/stylegan2-car-config-f.pkl': 256,
     'ada/ffhq.pkl': 1024,
     'ada/afhqcat.pkl': 512,
     'ada/afhqdog.pkl': 512,
